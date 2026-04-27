@@ -68,7 +68,7 @@ Currently focused on batch ETL and real-time streaming architectures.
 
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-Arti434-181717?style=flat&logo=github)](https://github.com/Arti434)
-[![Email](https://img.shields.io/badge/Email-justvibhu@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:artipradhan182@gmail.com)
+[![Email](https://img.shields.io/badge/Email-artipradhan182@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:artipradhan182@gmail.com)
 
 ---
 
