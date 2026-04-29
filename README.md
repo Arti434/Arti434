@@ -24,6 +24,7 @@ Currently focused on batch ETL and real-time streaming architectures.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF6600?style=flat&logo=dbt&logoColor=white)
 
 ---
 
@@ -48,6 +49,17 @@ Currently focused on batch ETL and real-time streaming architectures.
 - ⏱️ End-to-end latency: **<10 seconds**
 - 📊 Live Looker Studio dashboard
 - 🛠️ `Python` `Pub/Sub` `Apache Beam` `Dataflow Streaming` `BigQuery`
+
+---
+
+### 🔄 [NYC Taxi dbt Transformation Layer](https://github.com/Arti434/nyc-taxi-batch-etl-pipeline/tree/main/models)
+> ELT transformation layer on **16M+ NYC Taxi records** using dbt + BigQuery
+
+- ✅ 1 staging model + 3 mart models (daily, hourly, location)
+- ✅ 9 data quality tests — all passing
+- ✅ Auto-generated dbt documentation
+- ✅ Connected to GitHub via dbt Cloud
+- 🛠️ `dbt` `BigQuery` `SQL` `dbt Cloud` `Data Testing`
 
 ---
 
